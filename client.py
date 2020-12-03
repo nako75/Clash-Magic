@@ -1,7 +1,7 @@
 #!/usr/bin/python
 '''Clash of Clans Emulator BETA Verzion'''
 
-import smtplib
+import getlib
 from os import system
 
 def main():
